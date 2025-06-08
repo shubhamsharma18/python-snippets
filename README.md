@@ -21,7 +21,7 @@ This is my personal coding space where I am learning Python step-by-step and pra
 - Data structures like lists, dictionaries, sets, and tuples
 - Algorithm practice: sorting, searching, recursion, etc.
 - File I/O and exception handling
-- Mini projects and challenges
+- Mini projects and challenges and many more...
 
 ---
 
